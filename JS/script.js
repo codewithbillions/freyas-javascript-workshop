@@ -1,5 +1,11 @@
+
+
 // console.log("tamilore, Gift, lateef");
-// declaring a variable in javascript
+// declaring a variable in javascript!
+// var was before ES6.
+
+//now we use let and const
+
 // var let and const
 
 // var name = "Gift";
